@@ -4,7 +4,7 @@
 ######Desenvolvedores: 
 João Victor Chencci, Marcelo Mingatos, Wesley Ide
 
-###Project-JMW - iOS Mobile
+###Project-JMW - iOS App
 =============
 
 Lorem ipsum dolor
